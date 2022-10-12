@@ -7,7 +7,20 @@ Technology**  at **[North Metropolitan TAFE](https://northmetrotafe.wa.edu.au)**
 ## ...
 
 
-## ...
+## Contributing
+
+We always welcome contributions to the code we produce. Please note that we will audit and 
+verify that code is of use to our students and their work. 
+
+Code that provides solutions to 
+assessments in any form will be rejected, and the originating authors 'black listed'.
+
+Cheating, plagiarism and other forms of misrepresentation of the authenticity of submitted 
+work by students may result in 
+the expulsion of the student from the course.
+
+In the case of international students, this 
+may also result in the revoking of study visas.
 
 
 ## Contents Per Session
