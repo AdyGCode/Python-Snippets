@@ -4,15 +4,17 @@ This repository contains files that may be of use to students
 studying the **ICT40120 Certificate IV in Information
 Technology**  at **[North Metropolitan TAFE](https://northmetrotafe.wa.edu.au)**.
 
-## ...
+## Adrian Gould's Bookmark Collection
 
+- [Adrian's Diigo Account](https://diigo.com/profile/Ady_Gould)
+- [Adrian's Diigo Account / Python](https://www.diigo.com/profile/Ady_Gould?query=python)
 
 ## Contributing
 
-We always welcome contributions to the code we produce. Please note that we will audit and 
-verify that code is of use to our students and their work. 
+We always welcome contributions to the code we produce. Please note that we will audit and
+verify that code is of use to our students and their work.
 
-Code that provides solutions to 
+Code that provides solutions to
 assessments in any form will be rejected, and the originating authors 'black listed'.
 
 Cheating, plagiarism and other forms of misrepresentation of the authenticity of submitted 
