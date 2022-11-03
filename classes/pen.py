@@ -79,6 +79,12 @@ class Pen:
             type_of_pen = "UNKNOWN"
         self._pen_type = type_of_pen
 
+    def writes(self, the_text):
+        if self.ink_colour is "UNKNOWN":
+            return "The pen has no ink to write with."
+        return f"The {self.name} {self.pen_type} pen, writes " \
+               f"{the_text} in {self.ink_colour} ink."
+
     # A special DUNDER method:  DUNDER === DOUBLE UNDERscore.
     # Many dunder methods (eg __init__) that have specific purposes.
     # Others include __repr__, __gt__, __le__ and more.
