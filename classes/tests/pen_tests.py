@@ -35,7 +35,7 @@ class PenTests(unittest.TestCase):
                                                  "pen_type")
 
     def test_set_pen_ink(self):
-        self.test_pen.ink_colour = "another dummy ink_colour"
+        self.test_pen.ink_colour = "another dummy ink_colour 2"
         self.assertEqual(self.test_pen.ink_colour,
                          "another dummy ink_colour")
 

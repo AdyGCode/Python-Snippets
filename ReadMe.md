@@ -9,6 +9,10 @@ Technology**  at **[North Metropolitan TAFE](https://northmetrotafe.wa.edu.au)**
 - [Adrian's Diigo Account](https://diigo.com/profile/Ady_Gould)
 - [Adrian's Diigo Account / Python](https://www.diigo.com/profile/Ady_Gould?query=python)
 
+## This Repo
+
+https://github.com/AdyGCode/
+
 ## Contributing
 
 We always welcome contributions to the code we produce. Please note that we will audit and
@@ -17,7 +21,7 @@ verify that code is of use to our students and their work.
 Code that provides solutions to
 assessments in any form will be rejected, and the originating authors 'black listed'.
 
-Cheating, plagiarism and other forms of misrepresentation of the authenticity of submitted 
+Cheating, plagiarism and other forms of misrepresentation of the authenticity of submitted
 work by students may result in 
 the expulsion of the student from the course.
 
